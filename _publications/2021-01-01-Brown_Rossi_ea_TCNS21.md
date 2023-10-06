@@ -1,8 +1,7 @@
 ---
 title: "On Local Computation for Network-Structured Convex Optimization in Multi-Agent Systems"
 collection: publications
-permalink: /publication/2021-01-01-Brown_Rossi_ea_TCNS21ß
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/2021-01-01-Brown_Rossi_ea_TCNS21
 date: 2021-01-01
 venue: 'IEEE Transactions on Control of Network Systems'
 paperurl: 'http://robinabrown.github.io/files/Brown_Rossi_ea_TCNS21.pdf'

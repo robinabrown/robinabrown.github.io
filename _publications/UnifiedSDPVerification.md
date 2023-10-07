@@ -1,5 +1,6 @@
 ---
 title: "A Unified View of SDP-based Neural Network Verification through Completely Positive Programming"
+paperauthors: "Brown, R. and Schmerling, E. and Azizan, N. and Pavone, M."
 collection: publications
 permalink: /publication/UnifiedSDPVerification
 date: 2022-03-01

@@ -1,5 +1,6 @@
 ---
 title: "Exploiting Locality and Structure for Distributed Optimization in Multi-Agent Systems"
+paperauthors: "Brown, R. A. and Rossi, F. and Solovey, K. and Wolf, M. T. and Pavone, M."
 collection: publications
 permalink: /publication/LocalityECC
 date: 2020-05-01

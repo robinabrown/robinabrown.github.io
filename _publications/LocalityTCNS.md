@@ -1,5 +1,6 @@
 ---
 title: "On Local Computation for Network-Structured Convex Optimization in Multi-Agent Systems"
+paperauthors: "Brown, R. A. and Rossi, F. and Solovey, K. and Tsao, M. and Wolf, M. T. and Pavone, M."
 collection: publications
 permalink: /publication/LocalityTCNS
 date: 2021-01-01

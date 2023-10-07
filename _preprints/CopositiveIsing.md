@@ -1,6 +1,6 @@
 ---
 title: "A Copositive Framework for Analysis of Hybrid Ising-Classical Algorithms"
-paperauthors: "Brown, R. A. and Bernal Neira, D. E. and Venturelli, D. and Pavone, M."
+paperauthors: "R. A. Brown, D. E. Bernal Neira, D. Venturelli, M. Pavone"
 collection: publications
 permalink: /publication/CopositiveIsing
 date: 2023-03-01

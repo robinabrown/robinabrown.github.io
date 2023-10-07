@@ -36,7 +36,7 @@
       {% endif %}
       </b>-
       {{ post.paperauthors }}
-      <!-- <br />  -->
+      <br /> 
       - <b>{{ post.venue }}</b>
       <!--
       </b>
@@ -44,6 +44,7 @@
       - <b>{{ post.venue }}</b>-->
       {% if post.award %}<b style="color:red"> ({{ post.award }})</b>{% endif %}
       - {{ post.date | date: "%Y" }}       <!-- - {{ post.date | date: "%B %d, %Y" }}. -->
+      <br />
       <span class="archive__item-excerpt">
         {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
       </span>

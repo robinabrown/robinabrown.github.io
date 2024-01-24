@@ -4,7 +4,7 @@ paperauthors: "R. A. Brown, D. E. Bernal Neira, D. Venturelli, M. Pavone"
 collection: publications
 permalink: /publication/CopositiveIsing
 date: 2023-03-01
-venue: 'Under Review'
+venue: 'SIAM Journal of Optimization'
 paperurl: 'http://robinabrown.github.io/files/CopositiveIsing.pdf'
 excerpt: We present a formal analysis of hybrid algorithms in the context of solving mixed-binary quadratic programs (MBQP) via Ising solvers. We leverage copositive optimization and cutting-plane algorithms to derive an algorithm that provable shifts complexity onto the subroutine handled by the Ising solver.
 thumbnail: "ccp_icon.png"
@@ -18,6 +18,6 @@ Recent years have seen significant advances in quantum/quantum-inspired technolo
 @article{BrownBernalNeiraEtAl2023,
   author    = {Brown, R. A. and Bernal Neira, D. E. and Venturelli, D. and Pavone, M.},
   title     = {A Copositive Framework for Analysis of Hybrid Ising-classical Algorithms},
-  year      = {2023},
+  year      = {2024},
   url       = {https://arxiv.org/abs/2207.13630}
 }
